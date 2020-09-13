@@ -1,0 +1,13 @@
+C:\LN\ungdungdemsoluong\bin\Debug\netcoreapp3.1\ungdungdemsoluong.exe
+C:\LN\ungdungdemsoluong\bin\Debug\netcoreapp3.1\ungdungdemsoluong.deps.json
+C:\LN\ungdungdemsoluong\bin\Debug\netcoreapp3.1\ungdungdemsoluong.runtimeconfig.json
+C:\LN\ungdungdemsoluong\bin\Debug\netcoreapp3.1\ungdungdemsoluong.runtimeconfig.dev.json
+C:\LN\ungdungdemsoluong\bin\Debug\netcoreapp3.1\ungdungdemsoluong.dll
+C:\LN\ungdungdemsoluong\bin\Debug\netcoreapp3.1\ungdungdemsoluong.pdb
+C:\LN\ungdungdemsoluong\obj\Debug\netcoreapp3.1\ungdungdemsoluong.csprojAssemblyReference.cache
+C:\LN\ungdungdemsoluong\obj\Debug\netcoreapp3.1\ungdungdemsoluong.AssemblyInfoInputs.cache
+C:\LN\ungdungdemsoluong\obj\Debug\netcoreapp3.1\ungdungdemsoluong.AssemblyInfo.cs
+C:\LN\ungdungdemsoluong\obj\Debug\netcoreapp3.1\ungdungdemsoluong.csproj.CoreCompileInputs.cache
+C:\LN\ungdungdemsoluong\obj\Debug\netcoreapp3.1\ungdungdemsoluong.dll
+C:\LN\ungdungdemsoluong\obj\Debug\netcoreapp3.1\ungdungdemsoluong.pdb
+C:\LN\ungdungdemsoluong\obj\Debug\netcoreapp3.1\ungdungdemsoluong.genruntimeconfig.cache
